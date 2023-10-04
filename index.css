@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  background: rgb(58, 238, 58);
+}
+
+ol {
+  font-size: 20px;
+  background: green;
+  margin: 0;
+  padding-left: 0;
+  text-align: auto; 
+  list-style-position: inside;
+}
+
+li {
+  height: 0 auto;
+  background: skyblue;
+  margin: 0;
+}
+
+h3{
+  font-weight: bold;
+  font-size: 30px;
+  background: red;
+  margin: 0;
+}
